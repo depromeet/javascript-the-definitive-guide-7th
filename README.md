@@ -20,12 +20,12 @@
 
 | 이름                                    | 한줄목표                                         |
 | --------------------------------------- | ------------------------------------------------ |
-| [김효진](https://github.com/hy57in)     | 내 인생에 끝까지 읽어보는 개발책 한권 만들어보자 |
-| [김민지](https://github.com/mnxmnz)     | 자바스크립트 잘하고 싶다 🥺                      |
-| [조기문](https://github.com/guymoon)    | 코뿔소랑 베프되기                                |
-| [이병현](https://github.com/Tolluset)   | 완주가 목표 🏃🏻                                   |
-| [최푸름](https://github.com/choipureum) | 1팀 열정 뭐야 질수없다                           |
-| 대로                                    |                                                  |
+| [김효진](https://github.com/hy57in)       | 내 인생에 끝까지 읽어보는 개발책 한권 만들어보자   |
+| [김민지](https://github.com/mnxmnz)       | 자바스크립트 잘하고 싶다 🥺                      |
+| [조기문](https://github.com/guymoon)      | 코뿔소랑 베프되기                                |
+| [이병현](https://github.com/Tolluset)     | 완주가 목표 🏃🏻                                  |
+| [최푸름](https://github.com/choipureum)   | 1팀 열정 뭐야 질수없다                           |
+| [이성용](https://github.com/SeongYongLee) | 이미 책 다 읽고 회고하는 상상까지 다 함           |
 
 ## 🗓 스터디 일정
 
