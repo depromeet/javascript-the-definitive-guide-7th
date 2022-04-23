@@ -14,7 +14,6 @@
 
 Escape Sequence
 
-
 intl.numberformat
 Intl.NumberFormat('ko-KR').format(1000000);
 
@@ -22,7 +21,10 @@ Intl.NumberFormat('ko-KR').format(1000000);
 
 [hasOwnProperty](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)
 
-
 [Reflect.has](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Reflect/has)
 
+아까 Symbol.iterator 관련 부분은 제너레이터랑 이터러블 이터레이터 같이 보시면 좋은 것 같습니다!
 
+https://ui.toast.com/weekly-pick/ko_20151021
+
+https://ko.javascript.info/async-iterators-generators
