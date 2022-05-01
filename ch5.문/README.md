@@ -16,7 +16,9 @@ switch (type x):
         return <Component B />
 ```
 
-switch를 애용하는 편이다
+switch를 애용하는 편이다.
+[switch(true) 패턴도 사용 할 수 있다](https://ui.toast.com/weekly-pick/ko_20210603)
+
 
 
 Compound Componen
