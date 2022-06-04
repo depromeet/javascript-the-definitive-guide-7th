@@ -26,7 +26,7 @@
 | [이병현](https://github.com/Tolluset)     | 완주가 목표 🏃🏻                                                |          |               |
 | [이성용](https://github.com/SeongYongLee) | 이미 책 다 읽고 회고하는 상상까지 다 함                       |          | 🟥            |
 | [박종호](https://github.com/jonghopark95) | 전 회고 끝내고 뒷풀이 때 성용이형이 술값 계산하는 상상까지 함 |          |               |
-| [박상범](https://github.com/jonghopark95) |                                                               |          |               |
+| [박상범](https://github.com/jonghopark95) | 내 인생에 끝까지 읽어보는 개발책 한권 만들어보자 2        |          |               |
 
 ## 🗓 스터디 일정
 
