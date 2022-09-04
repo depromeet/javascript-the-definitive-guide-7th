@@ -62,8 +62,8 @@
 | <img src="./images/6.4.png" width="300px"/>   | <!--사진 옮겨주세요 효진님 제가 정말 진짜 귀찮아서 그런게 아니라.. ㅎㅎ --> ![image](https://user-images.githubusercontent.com/43922311/173172068-eb7938c4-48fc-4bfb-b189-ae54cc2b801a.png) | <img src="./images/6.18.png" width="300px" /> |
 | 7/24                                          | 7/31                                                                                                                                                                                        | 8/7                                           |
 | <img src="./images/7.24.png" width="300px"/>  | <img src="./images/7.31.png" width="300px" />                                                                                                                                               | <img src="./images/8.7.png" width="300px" />  |
-| 8/14                                          | 8/21                                                                                                                                                                                        |                                               |
-| <img src="./images/8.14.png" width="300px"/>  | <img src="" width="300px" />                                                                                                                                                                | <img src="" width="300px" />                  |
+| 8/14                                          | 9/4                                                                                                                                                                                         |                                               |
+| <img src="./images/8.14.png" width="300px"/>  | <img src="./images/9.4.png" width="300px" />                                                                                                                                                | <img src="" width="300px" />                  |
 
 ## 📍 목차
 
